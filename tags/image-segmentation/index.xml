@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>image-segmentation | Irfan Al-Hussaini</title>
-    <link>/~iah3/tags/image-segmentation/</link>
-      <atom:link href="/~iah3/tags/image-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/image-segmentation/</link>
+      <atom:link href="/tags/image-segmentation/index.xml" rel="self" type="application/rss+xml" />
     <description>image-segmentation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 30 Dec 2019 13:18:12 +0600</lastBuildDate>
     <image>
-      <url>/~iah3/img/portrait.jpg</url>
+      <url>img/portrait.jpg</url>
       <title>image-segmentation</title>
-      <link>/~iah3/tags/image-segmentation/</link>
+      <link>/tags/image-segmentation/</link>
     </image>
     
     <item>
       <title>Image Segmentation using a Variational PDE Model</title>
-      <link>/~iah3/project/vision/</link>
+      <link>/project/vision/</link>
       <pubDate>Mon, 30 Dec 2019 13:18:12 +0600</pubDate>
-      <guid>/~iah3/project/vision/</guid>
+      <guid>/project/vision/</guid>
       <description></description>
     </item>
     

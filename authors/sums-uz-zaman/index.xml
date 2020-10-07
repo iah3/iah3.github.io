@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sums Uz Zaman | Irfan Al-Hussaini</title>
-    <link>/~iah3/authors/sums-uz-zaman/</link>
-      <atom:link href="/~iah3/authors/sums-uz-zaman/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/sums-uz-zaman/</link>
+      <atom:link href="/authors/sums-uz-zaman/index.xml" rel="self" type="application/rss+xml" />
     <description>Sums Uz Zaman</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 25 Nov 2018 18:00:38 -0500</lastBuildDate>
     <image>
-      <url>/~iah3/img/portrait.jpg</url>
+      <url>img/portrait.jpg</url>
       <title>Sums Uz Zaman</title>
-      <link>/~iah3/authors/sums-uz-zaman/</link>
+      <link>/authors/sums-uz-zaman/</link>
     </image>
     
     <item>
       <title>Predictive Real-Time Beat Tracking from Music for Embedded Application</title>
-      <link>/~iah3/publication/mipr/</link>
+      <link>/publication/mipr/</link>
       <pubDate>Sun, 25 Nov 2018 18:00:38 -0500</pubDate>
-      <guid>/~iah3/publication/mipr/</guid>
+      <guid>/publication/mipr/</guid>
       <description></description>
     </item>
     

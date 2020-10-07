@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zubayer Islam | Irfan Al-Hussaini</title>
-    <link>/~iah3/authors/zubayer-islam/</link>
-      <atom:link href="/~iah3/authors/zubayer-islam/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/zubayer-islam/</link>
+      <atom:link href="/authors/zubayer-islam/index.xml" rel="self" type="application/rss+xml" />
     <description>Zubayer Islam</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 25 Nov 2017 18:00:38 -0500</lastBuildDate>
     <image>
-      <url>/~iah3/img/portrait.jpg</url>
+      <url>img/portrait.jpg</url>
       <title>Zubayer Islam</title>
-      <link>/~iah3/authors/zubayer-islam/</link>
+      <link>/authors/zubayer-islam/</link>
     </image>
     
     <item>
       <title>Object recognition and real-time spoken word recognition using two-fold dynamic time warping for autonomous arm manipulator</title>
-      <link>/~iah3/publication/icsipa/</link>
+      <link>/publication/icsipa/</link>
       <pubDate>Sat, 25 Nov 2017 18:00:38 -0500</pubDate>
-      <guid>/~iah3/publication/icsipa/</guid>
+      <guid>/publication/icsipa/</guid>
       <description></description>
     </item>
     
