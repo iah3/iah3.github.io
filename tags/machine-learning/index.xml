@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine-learning | Irfan Al-Hussaini</title>
+    <link>/~iah3/tags/machine-learning/</link>
+      <atom:link href="/~iah3/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine-learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 30 Dec 2019 13:37:15 +0600</lastBuildDate>
+    <image>
+      <url>/~iah3/img/portrait.jpg</url>
+      <title>machine-learning</title>
+      <link>/~iah3/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable Sleep Staging</title>
+      <link>/~iah3/project/sleep/</link>
+      <pubDate>Mon, 30 Dec 2019 13:37:15 +0600</pubDate>
+      <guid>/~iah3/project/sleep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLEEPER: interpretable Sleep staging via Prototypes from Expert Rules</title>
+      <link>/~iah3/publication/mlhc/</link>
+      <pubDate>Fri, 07 Jun 2019 18:00:38 -0500</pubDate>
+      <guid>/~iah3/publication/mlhc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

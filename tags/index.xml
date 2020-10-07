@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Irfan Al-Hussaini</title>
+    <link>/~iah3/tags/</link>
+      <atom:link href="/~iah3/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 30 Dec 2019 13:37:15 +0600</lastBuildDate>
+    <image>
+      <url>/~iah3/img/portrait.jpg</url>
+      <title>Tags</title>
+      <link>/~iah3/tags/</link>
+    </image>
+    
+    <item>
+      <title>clinical-decision-making</title>
+      <link>/~iah3/tags/clinical-decision-making/</link>
+      <pubDate>Mon, 30 Dec 2019 13:37:15 +0600</pubDate>
+      <guid>/~iah3/tags/clinical-decision-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/~iah3/tags/deep-learning/</link>
+      <pubDate>Mon, 30 Dec 2019 13:37:15 +0600</pubDate>
+      <guid>/~iah3/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interpretability</title>
+      <link>/~iah3/tags/interpretability/</link>
+      <pubDate>Mon, 30 Dec 2019 13:37:15 +0600</pubDate>
+      <guid>/~iah3/tags/interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>/~iah3/tags/machine-learning/</link>
+      <pubDate>Mon, 30 Dec 2019 13:37:15 +0600</pubDate>
+      <guid>/~iah3/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prototype-learning</title>
+      <link>/~iah3/tags/prototype-learning/</link>
+      <pubDate>Mon, 30 Dec 2019 13:37:15 +0600</pubDate>
+      <guid>/~iah3/tags/prototype-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-vision</title>
+      <link>/~iah3/tags/computer-vision/</link>
+      <pubDate>Mon, 30 Dec 2019 13:18:12 +0600</pubDate>
+      <guid>/~iah3/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image-segmentation</title>
+      <link>/~iah3/tags/image-segmentation/</link>
+      <pubDate>Mon, 30 Dec 2019 13:18:12 +0600</pubDate>
+      <guid>/~iah3/tags/image-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-analytics</title>
+      <link>/~iah3/tags/data-analytics/</link>
+      <pubDate>Mon, 30 Dec 2019 13:18:03 +0600</pubDate>
+      <guid>/~iah3/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-visualization</title>
+      <link>/~iah3/tags/data-visualization/</link>
+      <pubDate>Mon, 30 Dec 2019 13:18:03 +0600</pubDate>
+      <guid>/~iah3/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binary-analysis</title>
+      <link>/~iah3/tags/binary-analysis/</link>
+      <pubDate>Mon, 30 Dec 2019 13:17:54 +0600</pubDate>
+      <guid>/~iah3/tags/binary-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ida-pro</title>
+      <link>/~iah3/tags/ida-pro/</link>
+      <pubDate>Mon, 30 Dec 2019 13:17:54 +0600</pubDate>
+      <guid>/~iah3/tags/ida-pro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>malware-analysis</title>
+      <link>/~iah3/tags/malware-analysis/</link>
+      <pubDate>Mon, 30 Dec 2019 13:17:54 +0600</pubDate>
+      <guid>/~iah3/tags/malware-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pin</title>
+      <link>/~iah3/tags/pin/</link>
+      <pubDate>Mon, 30 Dec 2019 13:17:54 +0600</pubDate>
+      <guid>/~iah3/tags/pin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dynamic-programming</title>
+      <link>/~iah3/tags/dynamic-programming/</link>
+      <pubDate>Mon, 30 Dec 2019 13:17:48 +0600</pubDate>
+      <guid>/~iah3/tags/dynamic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>embedded-system</title>
+      <link>/~iah3/tags/embedded-system/</link>
+      <pubDate>Mon, 30 Dec 2019 13:17:48 +0600</pubDate>
+      <guid>/~iah3/tags/embedded-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-information-retrieval</title>
+      <link>/~iah3/tags/music-information-retrieval/</link>
+      <pubDate>Mon, 30 Dec 2019 13:17:48 +0600</pubDate>
+      <guid>/~iah3/tags/music-information-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>real-time</title>
+      <link>/~iah3/tags/real-time/</link>
+      <pubDate>Mon, 30 Dec 2019 13:17:48 +0600</pubDate>
+      <guid>/~iah3/tags/real-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arm-manipulator</title>
+      <link>/~iah3/tags/arm-manipulator/</link>
+      <pubDate>Mon, 30 Dec 2019 13:10:30 +0600</pubDate>
+      <guid>/~iah3/tags/arm-manipulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dynamic-time-warping</title>
+      <link>/~iah3/tags/dynamic-time-warping/</link>
+      <pubDate>Mon, 30 Dec 2019 13:10:30 +0600</pubDate>
+      <guid>/~iah3/tags/dynamic-time-warping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>object-recognition</title>
+      <link>/~iah3/tags/object-recognition/</link>
+      <pubDate>Mon, 30 Dec 2019 13:10:30 +0600</pubDate>
+      <guid>/~iah3/tags/object-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech-recognition</title>
+      <link>/~iah3/tags/speech-recognition/</link>
+      <pubDate>Mon, 30 Dec 2019 13:10:30 +0600</pubDate>
+      <guid>/~iah3/tags/speech-recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

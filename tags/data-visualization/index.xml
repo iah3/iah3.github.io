@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data-visualization | Irfan Al-Hussaini</title>
+    <link>/~iah3/tags/data-visualization/</link>
+      <atom:link href="/~iah3/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>data-visualization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 30 Dec 2019 13:18:03 +0600</lastBuildDate>
+    <image>
+      <url>/~iah3/img/portrait.jpg</url>
+      <title>data-visualization</title>
+      <link>/~iah3/tags/data-visualization/</link>
+    </image>
+    
+    <item>
+      <title>Starlytics: Starcraft II Action and Winner Prediction</title>
+      <link>/~iah3/project/star/</link>
+      <pubDate>Mon, 30 Dec 2019 13:18:03 +0600</pubDate>
+      <guid>/~iah3/project/star/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

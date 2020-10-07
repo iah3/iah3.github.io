@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embedded-system | Irfan Al-Hussaini</title>
+    <link>/~iah3/tags/embedded-system/</link>
+      <atom:link href="/~iah3/tags/embedded-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>embedded-system</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 30 Dec 2019 13:17:48 +0600</lastBuildDate>
+    <image>
+      <url>/~iah3/img/portrait.jpg</url>
+      <title>embedded-system</title>
+      <link>/~iah3/tags/embedded-system/</link>
+    </image>
+    
+    <item>
+      <title>Music Beat Tracking</title>
+      <link>/~iah3/project/beat/</link>
+      <pubDate>Mon, 30 Dec 2019 13:17:48 +0600</pubDate>
+      <guid>/~iah3/project/beat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Real-Time Beat Tracking from Music for Embedded Application</title>
+      <link>/~iah3/publication/mipr/</link>
+      <pubDate>Sun, 25 Nov 2018 18:00:38 -0500</pubDate>
+      <guid>/~iah3/publication/mipr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

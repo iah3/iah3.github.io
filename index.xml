@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Irfan Al-Hussaini</title>
+    <link>/~iah3/</link>
+      <atom:link href="/~iah3/index.xml" rel="self" type="application/rss+xml" />
+    <description>Irfan Al-Hussaini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 30 Dec 2019 13:37:15 +0600</lastBuildDate>
+    <image>
+      <url>/~iah3/img/portrait.jpg</url>
+      <title>Irfan Al-Hussaini</title>
+      <link>/~iah3/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable Sleep Staging</title>
+      <link>/~iah3/project/sleep/</link>
+      <pubDate>Mon, 30 Dec 2019 13:37:15 +0600</pubDate>
+      <guid>/~iah3/project/sleep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Segmentation using a Variational PDE Model</title>
+      <link>/~iah3/project/vision/</link>
+      <pubDate>Mon, 30 Dec 2019 13:18:12 +0600</pubDate>
+      <guid>/~iah3/project/vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starlytics: Starcraft II Action and Winner Prediction</title>
+      <link>/~iah3/project/star/</link>
+      <pubDate>Mon, 30 Dec 2019 13:18:03 +0600</pubDate>
+      <guid>/~iah3/project/star/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary Analysis</title>
+      <link>/~iah3/project/binary/</link>
+      <pubDate>Mon, 30 Dec 2019 13:17:54 +0600</pubDate>
+      <guid>/~iah3/project/binary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Beat Tracking</title>
+      <link>/~iah3/project/beat/</link>
+      <pubDate>Mon, 30 Dec 2019 13:17:48 +0600</pubDate>
+      <guid>/~iah3/project/beat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Arm Manipulator</title>
+      <link>/~iah3/project/arm/</link>
+      <pubDate>Mon, 30 Dec 2019 13:10:30 +0600</pubDate>
+      <guid>/~iah3/project/arm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLEEPER: interpretable Sleep staging via Prototypes from Expert Rules</title>
+      <link>/~iah3/publication/mlhc/</link>
+      <pubDate>Fri, 07 Jun 2019 18:00:38 -0500</pubDate>
+      <guid>/~iah3/publication/mlhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Real-Time Beat Tracking from Music for Embedded Application</title>
+      <link>/~iah3/publication/mipr/</link>
+      <pubDate>Sun, 25 Nov 2018 18:00:38 -0500</pubDate>
+      <guid>/~iah3/publication/mipr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object recognition and real-time spoken word recognition using two-fold dynamic time warping for autonomous arm manipulator</title>
+      <link>/~iah3/publication/icsipa/</link>
+      <pubDate>Sat, 25 Nov 2017 18:00:38 -0500</pubDate>
+      <guid>/~iah3/publication/icsipa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
