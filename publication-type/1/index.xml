@@ -5,7 +5,7 @@
     <link>https://iah3.github.io/publication-type/1/</link>
       <atom:link href="https://iah3.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iah3.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>CCS Explorer: Relevance Prediction, Extractive Summarization, and Named Entity Recognition from Clinical Cohort Studies</title>
-      <link>https://iah3.github.io/publication/bigdata/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://iah3.github.io/publication/bigdata/</guid>
+      <title>Performance and utility trade-off in interpretable sleep staging</title>
+      <link>https://iah3.github.io/publication/ts4h/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://iah3.github.io/publication/ts4h/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,10 +40,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Performance and utility trade-off in interpretable sleep staging</title>
-      <link>https://iah3.github.io/publication/ts4h/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://iah3.github.io/publication/ts4h/</guid>
+      <title>CCS Explorer: Relevance Prediction, Extractive Summarization, and Named Entity Recognition from Clinical Cohort Studies</title>
+      <link>https://iah3.github.io/publication/bigdata/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://iah3.github.io/publication/bigdata/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
