@@ -33,10 +33,10 @@
     </item>
     
     <item>
-      <title>Pathology Dynamics at BioLaySumm: the trade-off between Readability, Relevance, and Factuality in Lay Summarization</title>
-      <link>https://iah3.github.io/publication/bionlp/</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://iah3.github.io/publication/bionlp/</guid>
+      <title>Zero-Shot Information Extraction for Clinical Meta-Analysis using Large Language Models</title>
+      <link>https://iah3.github.io/publication/bionlp_2/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://iah3.github.io/publication/bionlp_2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -60,10 +60,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Zero-Shot Information Extraction for Clinical Meta-Analysis using Large Language Models</title>
-      <link>https://iah3.github.io/publication/bionlp_2/</link>
-      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://iah3.github.io/publication/bionlp_2/</guid>
+      <title>Pathology Dynamics at BioLaySumm: the trade-off between Readability, Relevance, and Factuality in Lay Summarization</title>
+      <link>https://iah3.github.io/publication/bionlp/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://iah3.github.io/publication/bionlp/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -432,7 +432,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-854176932&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-271893456&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -442,7 +442,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-854176932&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-271893456&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

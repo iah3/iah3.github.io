@@ -5,7 +5,7 @@
     <link>https://iah3.github.io/publication/</link>
       <atom:link href="https://iah3.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iah3.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Pathology Dynamics at BioLaySumm: the trade-off between Readability, Relevance, and Factuality in Lay Summarization</title>
-      <link>https://iah3.github.io/publication/bionlp/</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://iah3.github.io/publication/bionlp/</guid>
+      <title>Zero-Shot Information Extraction for Clinical Meta-Analysis using Large Language Models</title>
+      <link>https://iah3.github.io/publication/bionlp_2/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://iah3.github.io/publication/bionlp_2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,10 +40,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Zero-Shot Information Extraction for Clinical Meta-Analysis using Large Language Models</title>
-      <link>https://iah3.github.io/publication/bionlp_2/</link>
-      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://iah3.github.io/publication/bionlp_2/</guid>
+      <title>Pathology Dynamics at BioLaySumm: the trade-off between Readability, Relevance, and Factuality in Lay Summarization</title>
+      <link>https://iah3.github.io/publication/bionlp/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://iah3.github.io/publication/bionlp/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
