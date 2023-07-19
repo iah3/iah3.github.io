@@ -15,15 +15,19 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://iah3.github.io/publication-type/1/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://iah3.github.io/publication/sigir/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://iah3.github.io/publication_types/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://iah3.github.io/publication/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://iah3.github.io/publication/bionlp_2/</loc>
@@ -32,10 +36,6 @@
   </url><url>
     <loc>https://iah3.github.io/publication/bionlp/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://iah3.github.io/publication/sigir/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://iah3.github.io/publication/icassp/</loc>
